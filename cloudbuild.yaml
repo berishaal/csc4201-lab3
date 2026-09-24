@@ -31,3 +31,6 @@ images:
 substitutions:
   _ARTIFACT_REGISTRY_REPO: lab3-repo
   _BUCKET_NAME: csc4201-lab1-albin-lab3-logs
+
+options:
+  logging: CLOUD_LOGGING_ONLY
